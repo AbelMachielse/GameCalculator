@@ -1,0 +1,9 @@
+-github installeren
+-reposetory clonen
+-command prompt opstarten (cmd)
+-meteor installeren https://www.meteor.com/
+-in repo directory type "meteor create GameCalculator"
+-start app door meteor command
+
+-http://www.w3schools.com/
+-https://www.meteor.com/tutorials
