@@ -1,3 +1,5 @@
+skype jasja: jasja.zuidmeer
+
 -github installeren
 -reposetory clonen
 -command prompt opstarten (cmd)
